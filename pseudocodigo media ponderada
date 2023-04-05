@@ -1,0 +1,15 @@
+Elaborar um algoritmo em que uma pessoa escreve três números e
+uma letra;
+Em seguida, se a pessoa escolheu a letra ‘A’ o algoritmo calcula a
+média aritmética. Caso seja ‘P’, calcula a média ponderada usando os
+pesos 3, 3 e 2
+
+pseudocódigo:
+
+    Solicitar que a pessoa informe três números e uma letra.
+    Armazenar os três números em variáveis.
+    Armazenar a letra em uma variável.
+    Verificar se a letra informada é 'A' ou 'P'.
+    Se a letra for 'A', calcular a média aritmética dos três números e exibir o resultado.
+    Se a letra for 'P', calcular a média ponderada dos três números com pesos 3, 3 e 2 e exibir o resultado.
+    Se a letra informada não for nem 'A' nem 'P', exibir uma mensagem de erro.

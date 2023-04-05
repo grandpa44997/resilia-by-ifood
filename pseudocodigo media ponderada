@@ -6,10 +6,23 @@ pesos 3, 3 e 2
 
 pseudocódigo:
 
-    Solicitar que a pessoa informe três números e uma letra.
+    Solicitar que a pessoa informe o primeiro numero.
+    Solicitar que a pessoa informe o segundo numero.
+    Solicitar que a pessoa informe o terceiro número.
+    Solicitar que a pessoa informe a letra.
     Armazenar os três números em variáveis.
     Armazenar a letra em uma variável.
     Verificar se a letra informada é 'A' ou 'P'.
-    Se a letra for 'A', calcular a média aritmética dos três números e exibir o resultado.
-    Se a letra for 'P', calcular a média ponderada dos três números com pesos 3, 3 e 2 e exibir o resultado.
     Se a letra informada não for nem 'A' nem 'P', exibir uma mensagem de erro.
+    Se a letra for 'A', calcular a média aritmética dos três números e exibir o resultado.
+    Somar o primeiro numero com o segundo numero e com o terceiro número.
+    Dividir o reslutado por 3.
+    Mostrar resultado da media aritmética.
+    Se a letra for 'P', calcular a média ponderada dos três números com pesos 3, 3 e 2 e exibir o resultado.
+    Multiplicar o primeiro numero por 3.
+    Multiplicar o segundo numero por 3.
+    Multiplicar o terceiro numero por 2.
+    Somar os resultados.
+    Dividir por 8.
+    Mostrar resultado da media ponderada.
+    
